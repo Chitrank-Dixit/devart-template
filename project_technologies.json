@@ -6,12 +6,12 @@
             "Twitter Sign in"
         ],
         "platforms": [
-            "app engine",
+            "app engine"
         ],
         "toolkits": [
             "jquery",
             "Knockout.js",
-            "Python Flask",
+            "Python Flask"
         ]
     },
     "themes": [
