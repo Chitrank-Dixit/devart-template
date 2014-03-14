@@ -1,13 +1,15 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "Google + Sign in",
+            "Facebook Sign in",
+            "Twitter Sign in"
         ],
         "platforms": [
-            "insert platforms"
+            "linux"
         ],
         "toolkits": [
-            "insert toolkits"
+            "jquery"
         ]
     },
     "themes": [
