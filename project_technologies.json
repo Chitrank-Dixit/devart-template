@@ -10,7 +10,11 @@
         ],
         "toolkits": [
             "jquery"
-        ]
+        ],
+        "languages":[
+            "python",
+            "javascript",
+        ],
     },
     "themes": [
         "insert themes"
