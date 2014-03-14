@@ -6,17 +6,18 @@
             "Twitter Sign in"
         ],
         "platforms": [
-            "linux"
+            "app engine",
         ],
         "toolkits": [
-            "jquery"
+            "jquery",
+            "Knockout.js",
+            "Python Flask",
         ],
-        "languages":[
-            "python",
-            "javascript",
-        ],
+        
     },
     "themes": [
-        "insert themes"
+        "Data",
+        "Privacy",
+        "Web"
     ]
 }
