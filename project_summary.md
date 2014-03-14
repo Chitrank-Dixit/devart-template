@@ -1,5 +1,4 @@
-# Project Title
-Insert the name of your project
+# TechMamoth
 
 ## Author
 Chitrank Dixit : https://github.com/Chitrank-Dixit
